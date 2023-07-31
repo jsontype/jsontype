@@ -13,12 +13,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 <div align = "center">
-  <h3>Hi There 👋</h3>
-  <br>
-  <p>I'm Donghwa Yang (Jsontyper).<br>I always look for ways to contribute to society.</p>
-  <br>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsontyper@gmail.com)](mailto:jsontyper@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Dev's-Home-d14836?style=flat-square&logo=Home&logoColor=white&link=https://jsontype.github.io/home/)](https://jsontype.github.io/home/)
 
   <div>﹏﹏﹏﹏﹏﹏﹏</div>
 
