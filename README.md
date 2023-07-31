@@ -13,6 +13,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
 <div align = "center">
+
 [![Gmail Badge](https://img.shields.io/badge/Dev's-Home-d14836?style=flat-square&logo=Home&logoColor=white&link=https://jsontype.github.io/home/)](https://jsontype.github.io/home/)
 
   <div>﹏﹏﹏﹏﹏﹏﹏</div>
