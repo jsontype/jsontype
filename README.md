@@ -14,7 +14,7 @@
 
 <div align = "center">
 
-[![Homepage](https://img.shields.io/badge/Dev's-Home-d14836?style=flat-square&logo=Home&logoColor=white&link=https://jsontype.github.io/home/)](https://jsontype.github.io/home/)
+[![Homepage](https://img.shields.io/badge/Dev's-Home-d14836?style=flat-square&logo=Home&logoColor=white&link=https://jsontype.github.io/jsontype)](https://jsontype.github.io/jsontype)
 
   <div>﹏﹏﹏﹏﹏﹏﹏</div>
 
