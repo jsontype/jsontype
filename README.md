@@ -59,9 +59,6 @@
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/Emotion-FF4785?style=flat-square&logo=emotion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Foundation-28B6F6?style=flat-square&logo=Foundation&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=less&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/>
   <br>
 
