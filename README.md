@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>  
   <br>
 
   <!-- Backend -->
