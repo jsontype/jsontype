@@ -82,7 +82,7 @@
   <br>  
 
   <!-- Ops -->
-  <h2>Ops</h2>
+  <h2>Etc</h2>
   <!-- Test -->
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white"/>
