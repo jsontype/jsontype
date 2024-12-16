@@ -58,7 +58,7 @@
   <br>
 
   <!-- Backend -->
-  <br><br><br>
+  <br>
   <!-- Core -->
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -81,7 +81,7 @@
   <br>  
 
   <!-- Ops -->
-  <br><br><br>
+  <br>
   <!-- Test -->
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white"/>
