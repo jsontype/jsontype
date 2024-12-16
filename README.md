@@ -18,7 +18,7 @@
 
   <div>﹏﹏﹏﹏﹏﹏﹏</div>
 
-  <h3>Stack 💻</h3>  
+  <h3>Tech Stack 💻</h3>
   <br>
   
   <!-- Frontend -->
@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-181717?style=flat-square&logo=Zustand&logoColor=white"/>
+  <br>  
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinia-FBAD50?style=flat-square&logo=Pinia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jotai-14B8A6?style=flat-square&logo=Jotai&logoColor=white"/>
@@ -50,6 +51,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+  <br>  
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=ChakraUI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/>
@@ -96,10 +98,12 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>  
+  <br>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Parcel-FFB718?style=flat-square&logo=Parcel&logoColor=black"/>
+  <br>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
