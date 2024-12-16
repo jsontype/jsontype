@@ -54,6 +54,15 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=ChakraUI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emotion-FF4785?style=flat-square&logo=emotion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=flat-square&logo=Bulma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foundation-28B6F6?style=flat-square&logo=Foundation&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Less-1D365D?style=flat-square&logo=less&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/>
   <br>
 
   <!-- Testing -->
