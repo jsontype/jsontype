@@ -22,7 +22,7 @@
   <br>
   
   <!-- Frontend -->
-  <h2>Frontend</h2>
+  <hr />
   <!-- Core -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -59,7 +59,7 @@
   <br>
 
   <!-- Backend -->
-  <h2>Backend</h2>
+  <hr />
   <!-- Core -->
   <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -82,7 +82,7 @@
   <br>  
 
   <!-- Ops -->
-  <h2>Etc</h2>
+  <hr />
   <!-- Test -->
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white"/>
