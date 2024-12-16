@@ -35,6 +35,11 @@
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-181717?style=flat-square&logo=Zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinia-FBAD50?style=flat-square&logo=Pinia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jotai-14B8A6?style=flat-square&logo=Jotai&logoColor=white"/>
   <br>
 
   <!-- Backend -->
